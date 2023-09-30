@@ -1,4 +1,4 @@
-f_lerner@LAPTOP-L659LAFN:~$ ssh-keygen 
+```f_lerner@LAPTOP-L659LAFN:~$ ssh-keygen 
 Generating public/private rsa key pair.                                                                                 
 Enter file in which to save the key (/home/f_lerner/.ssh/id_rsa):                                                       
 Created directory '/home/f_lerner/.ssh'.Enter passphrase (empty for no passphrase):                          
@@ -45,7 +45,7 @@ Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.4.0-162-generic x86_64)              
   * f_lerner@vds2476450:~$ logout
   * Connection to 185.5.249.140 closed.
   * f_lerner@LAPTOP-L659LAFN:~$ scp .ssh/id_rsa
-  * .ssh/id_rsa       .ssh/id_rsa.pub
+  * .ssh/id_rsa       .ssh/id_rsa.pub```
   *
   *
   *
