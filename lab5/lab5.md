@@ -177,7 +177,8 @@ no, ,0,hlt
 // halt (end of work)
 hlt,0,>,hlt
 hlt,1,>,hlt
-hlt, ,#,hlt ```
+hlt, ,#,hlt
+```
 
 
 7 этап. 
