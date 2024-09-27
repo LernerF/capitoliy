@@ -1,0 +1,10 @@
+Chen 4 single-core 191 NULL Server Server 576 1280 3 0 Windows10
+Lee 3 dual-core 145 AGP 12 SATA 0 1536 3 6 Windows11
+Smith 5 dual-core 248 AGP 56 SATA 292 768 2 5 NULL
+Nguyen 3 octa-core 168 integrated 41 IDE 0 1536 3 5 FreeBSD
+Brown 8 octa-core 109 NULL 0 IDE 625 1792 6 0 MacOS
+Garcia 8 single-core 245 NULL 0 ATA 532 1280 2 0 Windows11
+Ivanov 2 dual-core 183 NULL 0 IDE 742 512 2 0 Windows10
+Smith 3 quad-core 123 external 41 SCSI 0 1792 5 6 Windows10
+Brown 5 single-core 163 integrated 31 SCSI 466 1280 3 6 LinuxMint
+Brown 4 dual-core 194 NULL 0 ATA 857 1024 3 0 Fedora34

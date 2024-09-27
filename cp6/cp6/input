@@ -1,0 +1,10 @@
+Ivanov 5 single-core 100 AGP 16 SATA 2 512 4 5 Windows10
+Smith 8 dual-core 200 integrated 32 ATA 3 1024 6 7 Ubuntu20.04
+Johnson 4 quad-core 150 external 8 IDE 2 256 3 4 MacOS
+Garcia 6 octa-core 250 AGP 4 ATA 4 512 5 0 Fedora34
+Chen 4 hexa-core 180 PCI 8 SATA 3 512 4 5 Windows11
+Kim 3 dual-core 120 external 12 ATA 2 0 3 4 LinuxMint
+Martinez 7 quad-core 160 PCI 16 SCSI 0 512 4 5 CentOS8
+Brown 4 single-core 90 AGP 32 SCSI NULL 128 2 3 NULL
+Lee 6 NULL 240 AGP 4 IDE 5 1024 6 7 Debian10
+Nguyen 5 hexa-core 200 integrated 64 SATA 4 512 0 6 FreeBSD
